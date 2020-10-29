@@ -1,0 +1,48 @@
+.container{
+    margin: 10px 400px;
+    height: auto;
+    width: 300px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+}
+.form{
+    margin: 20px;
+
+}
+h1{
+    margin:-3px 50px -8px 69px;
+    width: auto;
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+    margin-bottom: -1px;
+}
+table{
+    margin-right: 14px;
+}
+input{
+    height: 20px;
+    width: 236px;
+    padding: 10px;
+    font-size: 20px;
+}
+#add-button{
+    width: 50px;
+    height: 40px;
+    margin: 8px 105px -8px 105px;
+    border-radius: 2px;
+    border: 1px solid green;
+    padding: 5px;
+    font-size: 20px;
+    color: green;
+}
+#total{
+    margin-left: 160px;
+    margin-bottom: -10px;
+}
+#print{
+    text-decoration: underline;
+    font-weight: bold;
+}
