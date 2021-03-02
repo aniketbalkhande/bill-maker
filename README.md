@@ -5,7 +5,7 @@
 
 ---
 
-###steps to run:
+### steps to run:
 
 1. Download this code in the zip format extract in a folder within the htdocs folder in order to run it on localhost.
 2. Run the XAMPP and import the " bill.sql " file.
